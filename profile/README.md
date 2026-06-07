@@ -1,5 +1,3 @@
-## Hi there 👋
-
 If you like any of my projects, you can show your `IEnumerable<ISupport>` via:
 
 ## Support me
